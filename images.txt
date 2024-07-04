@@ -5,3 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #own_setting
 hslr/sun-panel:latest
+ubuntu:latest

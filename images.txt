@@ -5,3 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #own_setting
 --platform=linux/arm64 hslr/sun-panel:1.4.0
+ghcr.io/requarks/wiki:2

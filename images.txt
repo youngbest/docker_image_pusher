@@ -6,4 +6,5 @@
 #own_setting
 #--platform=linux/arm64 hslr/sun-panel:1.4.0
 #ghcr.io/requarks/wiki:2
-frooodle/s-pdf
+#frooodle/s-pdf
+frooodle/s-pdf:latest-fat

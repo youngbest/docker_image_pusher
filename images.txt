@@ -8,4 +8,5 @@
 #ghcr.io/requarks/wiki:2
 #frooodle/s-pdf
 #frooodle/s-pdf:latest-fat
-portainer/portainer-ce:latest
+#portainer/portainer-ce:latest
+lyswhut/lx-music-sync-server:v2.1.2

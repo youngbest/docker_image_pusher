@@ -10,5 +10,6 @@
 #frooodle/s-pdf:latest-fat
 #portainer/portainer-ce:latest
 #lyswhut/lx-music-sync-server:v2.1.2
---platform=linux/arm64 lyswhut/lx-music-sync-server:v2.1.2
---platform=linux/arm64 vaultwarden/server:1.32.6-alpine
+#--platform=linux/arm64 lyswhut/lx-music-sync-server:v2.1.2
+#--platform=linux/arm64 vaultwarden/server:1.32.6-alpine
+vaultwarden/server:1.32.6

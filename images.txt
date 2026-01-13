@@ -16,4 +16,5 @@
 #--platform=linux/arm64 pypiserver/pypiserver:v2.3
 #--platform=linux/arm64 pypiserver/pypiserver:v2.2.0
 #--platform=linux/arm64 etechonomy/joplin-server:3
---platform=linux/arm64 postgres:17
+#--platform=linux/arm64 postgres:17
+--platform=linux/arm64 cloudflare/cloudflared:latest
